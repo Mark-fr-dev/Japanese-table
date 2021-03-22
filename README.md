@@ -1,4 +1,4 @@
-# Mechanical Design and construction of a Kitchen Island Table
+# Mechanical Design and Construction of a Kitchen Island Table
 
 ## Background
 
@@ -12,7 +12,7 @@ Design and build a good looking, functional kitchen table with a large surface a
 
 The apron was designed with Japanese style castle joints and the bottom shelf frame was designed with tusk tenons, held in place by contrasting wooden pegs. Mechanical drawings were produced using Fusion 360.
 
-[Kitchen_table](Kitchen_table.png)
+[Kitchen table](Kitchen_table.png)
 
 [Apron Long Edge](Apron_Long_Edge.pdf)
 
